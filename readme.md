@@ -1,4 +1,4 @@
-# Battle Net GraphQL
+# Battle Net GraphQL [![Build Status](https://travis-ci.com/JosephShering/bnet_api.svg?branch=master)](https://travis-ci.com/JosephShering/bnet_api)
 This project's intended purpose is to create a translation from the BattleNET API to a GraphQL API. We are still in active development.
 
 
@@ -15,4 +15,4 @@ Open your browser and navigate to [localhost](https://localhost:4000)
 yarn test
 ```
 
-[![Build Status](https://travis-ci.org/JosephShering/bnet_api.png?branch=master)](https://travis-ci.org/JosephShering/bnet_api})
+[![Build Status](https://travis-ci.com/JosephShering/bnet_api.svg?branch=master)](https://travis-ci.com/JosephShering/bnet_api)
