@@ -1,0 +1,19 @@
+{
+  "name": "bnet_api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.11.0",
+    "axios": "^0.19.2",
+    "chai": "^4.2.0",
+    "dotenv": "^8.2.0",
+    "mocha": "^7.1.1",
+    "nodemon": "^2.0.2",
+    "typedi": "^0.8.0"
+  },
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "mocha ./bnet/test"
+  }
+}
