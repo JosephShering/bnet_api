@@ -16,7 +16,6 @@
   },
   "scripts": {
     "start": "nodemon index.js",
-    "test": "mocha ./bnet/test",
-    "coveralls": "NODE_ENV=test YOURPACKAGE_COVERAGE=1 ./node_modules/.bin/mocha --require blanket --reporter mocha-lcov-reporter | ./node_modules/coveralls/bin/coveralls.js"
+    "test": "mocha ./bnet/test"
   }
 }
